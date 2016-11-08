@@ -1,0 +1,4 @@
+",Mom,ShopKeep
+Convo,This farmland is now yours. Start by using this money to buy an axe!, Welcome!
+Convo2,The shop can be found in the south-east., Hi!
+DefaultDialog, Once you have bought the axe, try to chop some trees.", Yo

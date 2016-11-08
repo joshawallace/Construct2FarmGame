@@ -1,0 +1,5 @@
+7/18/2013
+Implemented picking up and dropping of inventory items
+Resized the world layer objects
+Added another layer named player that sits between the world and HUD layers. This will keep objects from appearing on the player.
+Increased inventory slots to 6
